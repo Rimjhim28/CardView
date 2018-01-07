@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="colors">
+        <item>#FF8A80</item>
+        <item>#FF80AB</item>
+        <item>#EA80FC</item>
+        <item>#B388FF</item>
+        <item>#8C9EFF</item>
+        <item>#82B1FF</item>
+        <item>#A7FFEB</item>
+        <item>#CCFF90</item>
+        <item>#FFFF8D</item>
+        <item>#FF9E80</item>
+    </array>
+</resources>
