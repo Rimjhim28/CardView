@@ -20,4 +20,5 @@
         </android.support.v7.widget.RecyclerView>
 
     </android.support.design.widget.CoordinatorLayout>
+    
 </android.support.constraint.ConstraintLayout>
