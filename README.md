@@ -5,7 +5,7 @@ The application also contains code and layout supports for collapsible action ba
 
 ### Screenshots
 
-Basic Card View implementation to list items in Recycler View
+Basic Card View implementation of list items in Recycler View
 
 <img src="https://user-images.githubusercontent.com/26908195/37523704-c1b8bd8a-294d-11e8-8520-132a583d0cbc.png" width ="300" height = "500">
 
